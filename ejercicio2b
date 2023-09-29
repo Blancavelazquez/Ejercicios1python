@@ -1,0 +1,5 @@
+cadena = "1234jh"
+if cadena.isdigit():
+ print("Sólo hay dígitos")
+else:
+ print("No sólo hay dígitos")
