@@ -1,0 +1,3 @@
+lista1 = [10, 9, 8, 7, 6]
+lista1.reverse()
+print(lista1)
