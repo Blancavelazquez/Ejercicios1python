@@ -1,2 +1,4 @@
-# Ejercicios1python
-junior Achievement Python 1
+# Ejercicios 1 pyhton
+Junior Achievement 
+Grupo 2
+Blanca Andrea Velázquez Gil
