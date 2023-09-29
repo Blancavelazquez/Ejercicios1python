@@ -1,0 +1,5 @@
+cadena = "12345" # Reemplaza con tu cadena de texto
+if cadena.isdigit():
+ print("Sólo hay dígitos")
+else:
+ print("No sólo hay dígitos.")
